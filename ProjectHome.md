@@ -1,0 +1,3 @@
+ActionScript 3 is an increasingly powerful and scalable programming language that is used to create some of the most complex and artistically stunning applications known to the web. Despite, this language's powerful influence on the web industry, it lacks one important element, the ability to render HTML content beyond HTML1.
+
+SWFtml is an easy-to-implement library which utilizes ActionScript's advanced rendering capabilities to render content up to HTML4 within Flash(r) Player.
